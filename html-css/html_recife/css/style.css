@@ -26,8 +26,10 @@ nav {
 }
 
 nav li {
+    border: 15px solid blue;
     list-style-type: none;
     padding: 10px;
+    color: blue;
 }
 nav img{
     width: 100%;
